@@ -8,7 +8,7 @@
 
 - 🤥 Just in advance, i have created my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/).
 - 📚 Currently, I'm attending a technical high school with a major in informatics.
-- ✨ My projects right now are [rune](https://github.com/vertices1337/rune) and [vanilla](https://github.com/vertices1337/vanilla).
+- ✨ My projects right now are [vertex](https://github.com/vertices1337/rune) and [vanilla](https://github.com/vertices1337/vanilla).
 - 🤔 Questions? I can help out in **java, c++, databases and networking**. I'm available [here](https://linktr.ee/vertices1337).
 
 <h3 align="left">Languages:</h3>
