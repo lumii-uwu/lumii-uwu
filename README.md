@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm vertices</h1>
+<h1 align="center">Hey, I'm value</h1>
 <h3 align="center">Student and hobby developer</h3>
 
 <p align="center">
