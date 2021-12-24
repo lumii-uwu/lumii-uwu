@@ -1,15 +1,21 @@
-<h1 align="center">Hey, I'm value</h1>
-<h3 align="center">Student and hobby developer</h3>
+<h1 align="center">Hey, I'm lu. 🌸</h1>
+<h3 align="center">Student and hobby-developer</h3>
 
+<p align="center">
+    『 17y/o 』
+    『 she/her 』
+    『 pan 』
+</p>
+    
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=value3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=value3&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 </p>
 
-- 🤥 Just in advance, i have created my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/).
+- 🤥 Just in advance, I've created my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) (and a little bit of magic ✨).
 - 📚 Currently, I'm attending a technical high school with a major in informatics.
-- ✨ My projects right now are [vertex](https://github.com/value3/rune) and [vanilla](https://github.com/value3/vanilla).
-- 🤔 Questions? I can help out in **java, c++, databases and networking**. I'm available [here](https://linktr.ee/vertices1337).
+- ✨ My projects right now are [Devastation](https://github.com/FooFieOwO/Devastation/) and [Lolicon](https://github.com/ed0cinU/Lolicon).
+- 🤔 Questions? I can help out in **java, c++, databases and networking**. I'm available [here](about:blank).
 
 <h3 align="left">Languages:</h3>
 <p align="left">
