@@ -10,6 +10,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lumii-uwu&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumii-uwu&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+<img src="https://lanyard-profile-readme.vercel.app/api/330710628907876354?&bg=00000000">
 </p>
 
 - 🤥 Just in advance, I've created my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) (and a little bit of magic ✨).
