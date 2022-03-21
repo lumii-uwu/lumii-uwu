@@ -15,7 +15,7 @@
 
 - 🤥 Just in advance, I've created my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) (and a little bit of magic ✨).
 - 📚 Currently, I'm attending a technical high school with a major in informatics.
-- ✨ My project right now is [Nekoyaliu](https://github.com/lumii-uwu/nekoyaliu/) and I'm currently "working" for [KarmaKrafts](https://karmakrafts.dev/).
+- ✨ My project right now is [Nekoyaliu](https://github.com/lumii-uwu/nekoyaliu/) and I'm currently contributing for [KarmaKrafts](https://karmakrafts.dev/) for fun.
 - 🤔 Questions? I can help out in **java, c++, databases and networking**. I'm available [here](https://lumii.moe/).
 
 <h3 align="left">Languages:</h3>
