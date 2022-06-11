@@ -42,8 +42,3 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
     <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" /></a>
 </p>
-
-<p align="right">
-<h3 align="right">vewy cute floof <3</h3>
-    <a href="https://github.com/OriginalRooks/" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/895716135532638208?&bg=00000000" align="right"></a></img>
-</p>
